@@ -1,4 +1,3 @@
-# Sirp-PRIVACY-POLICY
 # Privacy Policy for Sirp
 
 **Last Updated:** September 30, 2026  
