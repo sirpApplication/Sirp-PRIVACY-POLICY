@@ -83,7 +83,7 @@ Sirp asks for user permissions on Android. You can grant or revoke these permiss
 | `ACCESS_BACKGROUND_LOCATION` | Allows arrival geofence detection for registered events and uninterrupted activity tracking while the app is in the background. |
 | `FOREGROUND_SERVICE` & `FOREGROUND_SERVICE_LOCATION` | Ensures continuous live navigation and activity monitoring during active sports sessions. |
 | `ACTIVITY_RECOGNITION` | Reads sensor data to track steps, pace, and movement during workouts. |
-| `CAMERA` | Enables taking a live profile picture or photo for an event. |
+| `CAMERA` | Enables taking a live profile picture. |
 | `READ_MEDIA_IMAGES` / Storage | Enables choosing profile pictures and event images from your media library. |
 | `POST_NOTIFICATIONS` | Delivers real-time push notifications for event updates, friend requests, and reminders. |
 | `SCHEDULE_EXACT_ALARM` | Triggers exact reminders for upcoming scheduled sporting events. |
